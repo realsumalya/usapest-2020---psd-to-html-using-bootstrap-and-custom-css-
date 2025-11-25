@@ -1,0 +1,120 @@
+@media(max-width: 1600px){}
+@media(max-width: 1440px){
+	.container-fluid {
+	    padding: 0 75px;
+	}
+	.logo_sec img {
+    height: 75px;
+    width: auto;
+    object-fit: cover;
+}
+.top_navsec li.nav-item a {
+    font-size: 16px;
+}
+.topnav_bdy {
+    padding: 10px 0px;
+}
+.form-control {
+    height: 52px;
+    border: 2px solid #00ae3f;
+    padding: 0 15px;
+    font-size: 16px;
+}
+.banner_info_child h1 {
+    font-size: 52px;
+}
+.common_btn {
+    padding: 16px 30px;
+    font-size: 16px;
+}
+.top_navsec li.nav-item {
+    padding-right: 40px;
+}
+.banner_info_parent img {
+    max-height: 520px;
+    width: 100%;
+    object-fit: cover;
+    background-position: top center;
+}
+.banner_info_child {
+    left: 75px;
+    right: 75px;
+}
+.common_header h2 {
+    font-size: 45px;
+}
+.common_header h3 {
+    font-size: 32px;
+}
+.common_header p {
+    font-size: 16px;
+}
+.sumalya img {
+    height: 470px;
+}
+.andi img, .andi::after {
+    width: 540px;
+    height: 540px;
+}
+textarea.form-control {
+    height: 120px !important;
+}
+
+.mb-4 {
+    font-size: 18px;
+}
+
+
+
+
+}
+@media(max-width: 1366px){
+    .banner_info_child h1 {
+    font-size: 40px;
+}
+    .banner_info_child p {
+    font-size: 18px;
+    
+}
+    .common_header h2 {
+    font-size: 40px;
+}
+.common_header h3 {
+    font-size: 28px;
+}
+.common_header p {
+    font-size: 18px;
+}
+
+.andi img, .andi::after {
+    width: 400px;
+    height: 400px;
+}
+.h4, h4 {
+    font-size: 1.3rem;
+}
+.ctn_number h5 {
+    
+    font-size: 18px;
+}
+.client_rev{
+    text-align: justify;
+}
+.client_rev h4,h5{
+    text-align: center;
+}
+.mb-4 {
+    font-size: 16px;
+}
+
+}
+@media(max-width: 1280px){}
+@media(max-width: 1080px){}
+@media(max-width: 991px){}
+@media(max-width: 820px){}
+@media(max-width: 767px){}
+@media(max-width: 600px){}
+@media(max-width: 575px){}
+@media(max-width: 484px){}
+@media(max-width: 420px){}
+@media(max-width: 370px){}

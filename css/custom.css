@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+}
+body {
+	width: 100%;
+	font-weight: 400;
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+}
+.container-fluid {
+	padding: 0 120px;
+}
+.topnav_bdy {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+#topid {
+     background: #fff; 
+    box-shadow: rgb(17 12 46 / 15%) 0px 48px 100px 0px;
+}
+#topid .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    padding: 0;
+}
+.top_navsec li.nav-item {
+    padding-right: 50px;
+}
+.top_navsec li.nav-item a {
+	font-weight: 500;
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+	color: #000 !important;	
+}
+.top_navsec .nav-link.active {
+    color: rgb(228 57 46) !important;
+}
